@@ -1,0 +1,15 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    highlight_level: NONE
+    text: |-
+      import operator
+      
+      # find the shortest book and print its title
+      # find the longest book and print its title
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/27519#comment
+status: Unchecked
+record: -1
+submission_language: python3
