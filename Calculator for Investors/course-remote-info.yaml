@@ -4,7 +4,7 @@ hyperskill_project:
   is_template_based: false
   use_ide: true
   environment: unittest
-update_date: "Thu, 21 Sep 2023 12:58:54 UTC"
+update_date: "Fri, 22 Sep 2023 13:42:46 UTC"
 stages:
   - id: 1335
     step: 20546
@@ -40,7 +40,7 @@ topics:
       theory_id: 6081
     - title: Load module
       theory_id: 6019
-    - title: Pip
+    - title: Installing packages with pip
       theory_id: 6230
     - title: Virtual Environment
       theory_id: 13923
