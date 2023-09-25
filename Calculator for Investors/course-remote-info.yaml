@@ -4,7 +4,7 @@ hyperskill_project:
   is_template_based: false
   use_ide: true
   environment: unittest
-update_date: "Fri, 22 Sep 2023 13:42:46 UTC"
+update_date: "Mon, 25 Sep 2023 14:49:37 UTC"
 stages:
   - id: 1335
     step: 20546
@@ -38,6 +38,8 @@ topics:
       theory_id: 5879
     - title: Comments
       theory_id: 6081
+    - title: Introduction to Python shell
+      theory_id: 8133
     - title: Load module
       theory_id: 6019
     - title: Installing packages with pip
@@ -46,16 +48,6 @@ topics:
       theory_id: 13923
     - title: PyCharm basics
       theory_id: 6193
-    - title: Program execution
-      theory_id: 6047
-    - title: Errors
-      theory_id: 6052
-    - title: Exceptions
-      theory_id: 6042
-    - title: Built-in exceptions
-      theory_id: 11680
-    - title: Exception handling
-      theory_id: 6270
     - title: Files
       theory_id: 13025
     - title: Introduction to databases
@@ -68,6 +60,18 @@ topics:
       theory_id: 7400
     - title: Arithmetic expressions
       theory_id: 7409
+    - title: Program execution
+      theory_id: 6047
+    - title: Errors
+      theory_id: 6052
+    - title: Exceptions
+      theory_id: 6042
+    - title: Built-in exceptions
+      theory_id: 11680
+    - title: Exception handling
+      theory_id: 6270
+    - title: Running Python applications in PyCharm
+      theory_id: 19153
     - title: Basic CREATE statement
       theory_id: 9084
     - title: Basic SELECT statement
@@ -78,22 +82,20 @@ topics:
       theory_id: 8619
     - title: Basic INSERT statement
       theory_id: 9059
-    - title: File types
-      theory_id: 13017
     - title: Introduction to SQLite
       theory_id: 12165
-    - title: Running Python applications in PyCharm
-      theory_id: 19153
+    - title: File types
+      theory_id: 13017
     - title: Introduction to Linux
       theory_id: 9526
     - title: File modes and permissions
       theory_id: 13953
     - title: Files in Python
       theory_id: 8691
-    - title: Introduction to Python shell
-      theory_id: 8133
     - title: Basic data types
       theory_id: 5852
+    - title: Quotes and multi-line strings
+      theory_id: 5814
     - title: Variables
       theory_id: 5859
     - title: Invoking a function
@@ -102,27 +104,25 @@ topics:
       theory_id: 5900
     - title: Scopes
       theory_id: 6322
-    - title: Quotes and multi-line strings
-      theory_id: 5814
     - title: String formatting
       theory_id: 6037
   1:
-    - title: Introduction to OOP
-      theory_id: 3614
     - title: Taking input
       theory_id: 5913
+    - title: Introduction to OOP
+      theory_id: 3614
     - title: If statement
       theory_id: 5953
     - title: Else statement
       theory_id: 5932
     - title: For loop
       theory_id: 6065
+    - title: Elif statement
+      theory_id: 5926
     - title: Class
       theory_id: 6661
     - title: Class instances
       theory_id: 6669
-    - title: Elif statement
-      theory_id: 5926
     - title: Relational Data Model
       theory_id: 13785
     - title: Intro to computational thinking
@@ -151,16 +151,16 @@ topics:
       theory_id: 11724
     - title: Boolean logic
       theory_id: 6025
-    - title: Comparisons
-      theory_id: 5920
     - title: List
       theory_id: 5979
     - title: Indexes
       theory_id: 6189
-    - title: Escape sequences
-      theory_id: 7130
+    - title: Comparisons
+      theory_id: 5920
     - title: Basic string methods
       theory_id: 6842
+    - title: Escape sequences
+      theory_id: 7130
     - title: Split and join
       theory_id: 6972
     - title: Tuple
@@ -169,10 +169,10 @@ topics:
       theory_id: 6481
     - title: List comprehension
       theory_id: 6315
-    - title: Functional decomposition
-      theory_id: 9571
     - title: Nested lists
       theory_id: 6938
+    - title: Functional decomposition
+      theory_id: 9571
     - title: PRIMARY KEY constraint
       theory_id: 9781
   2:
